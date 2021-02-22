@@ -33,3 +33,14 @@ __Sumbission Procedure:__
 - DO NOT send pull requests from the main branch of your fork.
 
 ---
+
+__IML-DNN-bbh-2020.13945__  
+Multiclass classification with BDTs and Shapley values.  
+Contains a DNN analysis to for comparison.  
+Bayesian MCMC code with pymc3 included.
+
+Resurrecting bbh with kinematic shapes  
+Christophe Grojean, Ayan Paul, and Zhuoni Qian  
+https://arxiv.org/abs/2011.13945
+
+contact: Ayan Paul (<apaul2@alumni.nd.edu>)
